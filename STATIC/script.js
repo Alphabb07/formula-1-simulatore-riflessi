@@ -1,0 +1,1 @@
+console.log("Javascript e' stato caricato correttamente")
